@@ -1,0 +1,54 @@
+﻿  playlist.cpp
+  PlaylistManager.cpp
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(23,35): error C2061: syntax error: identifier 'Playlist'
+  (compiling source file 'playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'PlaylistManager.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'PlaylistManager.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'PlaylistManager.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(23,35): error C2061: syntax error: identifier 'Playlist'
+  (compiling source file 'PlaylistManager.cpp')
+  
+D:\codes\project2playlist\project2playlist\PlaylistManager.h(39,25): error C2660: 'SurahPlayer::playPlaylistWithControls': function does not take 1 arguments
+  (compiling source file 'PlaylistManager.cpp')
+      D:\codes\project2playlist\project2playlist\SurahPlayer.h(23,10):
+      see declaration of 'SurahPlayer::playPlaylistWithControls'
+      D:\codes\project2playlist\project2playlist\PlaylistManager.h(39,25):
+      while trying to match the argument list '(Playlist *)'
+  
+  project2playlist.cpp
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'project2playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'project2playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(14,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'project2playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\SurahPlayer.h(23,35): error C2061: syntax error: identifier 'Playlist'
+  (compiling source file 'project2playlist.cpp')
+  
+D:\codes\project2playlist\project2playlist\PlaylistManager.h(39,25): error C2660: 'SurahPlayer::playPlaylistWithControls': function does not take 1 arguments
+  (compiling source file 'project2playlist.cpp')
+      D:\codes\project2playlist\project2playlist\SurahPlayer.h(23,10):
+      see declaration of 'SurahPlayer::playPlaylistWithControls'
+      D:\codes\project2playlist\project2playlist\PlaylistManager.h(39,25):
+      while trying to match the argument list '(Playlist *)'
+  
+  Generating Code...
